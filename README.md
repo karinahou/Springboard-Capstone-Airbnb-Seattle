@@ -6,12 +6,17 @@ Airbnb changed the way people travel all around the world as they’ve begun to 
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+## Prerequisites
 
 I used a jupyter notebook to help visualize each step in the process of this project.
+* [jupyter notebook installation](https://jupyter.org/install) 
 
 ## Built With
 
 * [insideairbnb](http://insideairbnb.com/seattle/) - The data used
 * [insideairbnb](http://insideairbnb.com/get-the-data.html) - The data used
+
+## Final Project Report
+* [Final Report](https://docs.google.com/document/d/1zMTFgDGeXa9yA4C9GjPGkaQt5XmQBinb8BxVWny5K_Y/edit?usp=sharing) - Google Doc of my process
+* [Final Presentation](https://docs.google.com/presentation/d/1A55uPxTrVRLIfb62b-LXI6YRUb3nOvJR4Gk7Q2rzRSU/edit?usp=sharing) - Google Slides of the big picture of each process in the project
 
