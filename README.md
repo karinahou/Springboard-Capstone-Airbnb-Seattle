@@ -17,6 +17,7 @@ I used a jupyter notebook to help visualize each step in the process of this pro
 * [insideairbnb](http://insideairbnb.com/get-the-data.html) - The data used
 
 ## Final Project Report
+* [Tableau Data Visualization](https://public.tableau.com/views/Airbnb-Seattle_15930296822570/MonthPrice?:language=en&:display_count=y&:origin=viz_share_link) - Utilizing Tableau to visualize the same graphs coded into the project. 
 * [Final Report](https://docs.google.com/document/d/1zMTFgDGeXa9yA4C9GjPGkaQt5XmQBinb8BxVWny5K_Y/edit?usp=sharing) - Google Doc of my process
 * [Final Presentation](https://docs.google.com/presentation/d/1A55uPxTrVRLIfb62b-LXI6YRUb3nOvJR4Gk7Q2rzRSU/edit?usp=sharing) - Google Slides of the big picture of each process in the project
 
